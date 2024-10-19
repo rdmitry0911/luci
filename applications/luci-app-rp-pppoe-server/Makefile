@@ -6,10 +6,10 @@
 include $(TOPDIR)/rules.mk
 
 LUCI_TITLE:=Roaring Penguin PPPoE Server
-LUCI_DEPENDS:=+luci-base +luci-compat +rp-pppoe-server
+LUCI_DEPENDS:=+luci-base +rp-pppoe-server
 
 PKG_LICENSE:=Apache-2.0
-PKG_MAINTAINER:=Daniel F. Dickinson <dfdpublic@wildtechgarden.ca>
+PKG_MAINTAINER:=Paul Donald <newtwen+github@gmail.com>
 
 include ../../luci.mk
 

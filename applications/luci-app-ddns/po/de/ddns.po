@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: luci-app-ddns 2.4.2-1\n"
 "POT-Creation-Date: 2016-09-25 10:43+0200\n"
-"PO-Revision-Date: 2024-08-19 21:09+0000\n"
+"PO-Revision-Date: 2024-10-11 23:49+0000\n"
 "Last-Translator: ssantos <ssantos@web.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/openwrt/"
 "luciapplicationsddns/de/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7\n"
+"X-Generator: Weblate 5.8-dev\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 
@@ -21,7 +21,7 @@ msgstr "\"../\" ist aus Sicherheitsgründen nicht als Pfad erlaubt."
 
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:756
 msgid "A.k.a. the TOKEN at e.g. afraid.org"
-msgstr ""
+msgstr "Bekannt als der TOKEN, auf z.B. afraid.org"
 
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:468
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:538
@@ -457,7 +457,7 @@ msgstr "Protokoll in Datei schreiben"
 
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:951
 msgid "Log to syslog"
-msgstr "Schreibe Logs ins syslog"
+msgstr "Ins Syslog protokollieren"
 
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:626
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:1131
@@ -537,7 +537,7 @@ msgstr "Nicht-öffentliche und standardmäßig blockierte IPs"
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:218
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:1117
 msgid "Not Running"
-msgstr "Läuft nicht"
+msgstr "Angehalten"
 
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:958
 msgid "Notice"
@@ -805,7 +805,7 @@ msgstr "Unbekannt"
 
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:301
 msgid "Update DDns Services List"
-msgstr "DDns-Diensteliste aktualisieren"
+msgstr "Aktualisiere Liste der DDNS-Anbieter"
 
 #: applications/luci-app-ddns/htdocs/luci-static/resources/view/ddns/overview.js:706
 msgid "Update URL for updating your DDNS Provider."
